@@ -1,2 +1,3 @@
-# Assignments
-This is where I have the frontend tasks done for week 3 and week 4 on Zuri training 
+In the week_3, I created a registration page and a personal portfolio website.
+
+And in the week_4, I created a flex page.
